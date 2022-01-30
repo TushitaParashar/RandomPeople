@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(84, 218, 252);
+}
+
+div{
+    margin:auto;
+    text-align: center;
+    width:fit-content;
+}
+
+button img{
+    border-radius: 50%;
+    height:45px;
+    width:auto;
+    background-color: black;
+}
+
+button{
+    width:300px;
+    height:50px;
+    background-color:blue;
+    font-weight: bolder;
+    font-size: 200%;
+    color:whitesmoke;
+}
+
+div#result{
+    margin-top: 40px;
+}
+
+div#result img{
+    height: 250px;
+    width: auto;
+}
+
+p{
+    color:red;
+    font-weight: bolder;
+}
